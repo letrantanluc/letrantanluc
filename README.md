@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>👋 Hi, My name is Lê Trần Tấn Lực</h1>
 
-<!--
-**letrantanluc/letrantanluc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+<p align="center">
+      <a href="https://github.com/letrantanluc">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=letrantanluc&theme=github-dark-blue&hide_border=true" />
+    </a>
+</p>
+<p align = "center">
+      
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🏆 Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=letrantanluc&theme=dracula&no-frame=true&column=4&margin-w=15)
+
+## 👨‍💻 Github Top Used Languages 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=letrantanluc&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
+
+## Badges
+![](https://komarev.com/ghpvc/?username=letrantanluc&color=green)
+1
