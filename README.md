@@ -1,7 +1,7 @@
 
   <h1 align="center">✨ About me</h1>
   
-- 😀 My name is Lê Trần Tấn Lực
+- 😀 My name is Le Tran Tan Luc
 
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
 
